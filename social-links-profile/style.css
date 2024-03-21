@@ -47,10 +47,9 @@ body {
   background-color: hsl(0, 0%, 20%);
   border: 1px solid hsl(0, 0%, 20%);
   border-radius: 10px;
-}
-.card__buttons button a {
   color: hsl(0, 0%, 100%);
   text-decoration: none;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 375px) {
